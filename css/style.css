@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0; 
@@ -5,4 +6,10 @@
 
 #main {
     
+=======
+img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+>>>>>>> 368cb76b864fa3aad2d35a567869325b398f1518
 }
